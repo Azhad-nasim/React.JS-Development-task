@@ -1,0 +1,212 @@
+.custom-card {
+  width: 720px;
+  height: 100%;
+  border-radius: 4px;
+  border: 1px solid #e0e0e0;
+  background: #fff;
+  /* margin-left: 2rem; */
+}
+
+.card-body {
+  padding: 1rem;
+}
+.ellipse {
+  position: relative;
+  bottom: 2.5rem;
+  cursor: pointer;
+}
+.para-1 {
+  color: #000;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 134.167%;
+}
+.para-2 {
+  color: #5c5c5c;
+  font-size: 19px;
+  font-style: normal;
+  font-weight: 400;
+  word-spacing: 4px;
+  line-height: 134.167%; /* 25.492px */
+}
+.btn1 {
+  position: relative;
+  width: 100%;
+  border-radius: 8px !important;
+  border: 0.7px dashed #a9aeb8 !important;
+  background: #fff !important;
+  bottom: 1rem;
+  color: #e56135 !important;
+  text-align: center !important;
+  font-size: 13px !important;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 140.4%;
+}
+.btn2 {
+  position: relative;
+  width: 100%;
+  border-radius: 8px !important;
+  border: 0.7px dashed #a9aeb8 !important;
+  background: #fff !important;
+  bottom: 1rem;
+  color: #02B875 !important;
+  text-align: center !important;
+  font-size: 13px !important;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 140.4%;
+}
+.profile {
+  color: #000;
+  font-size: 18px;
+
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
+.article {
+  position: relative;
+  top: 5px;
+}
+.views {
+  position: relative;
+  right: 3rem;
+  cursor: pointer;
+}
+.profile-image {
+  width: 40px;
+  height: 40px;
+  margin-right: 5px;
+}
+
+@media (max-width: 767px) {
+  .custom-card {
+    width: 100%;
+    height: 100%;
+  }
+
+  .para-1 {
+    font-size: 18px;
+  }
+
+  .para-2 {
+    font-size: 16px;
+  }
+
+  .profile {
+    position: relative;
+    /* bottom: 6px; */
+    font-size: 16px;
+  }
+}
+@media (max-width: 550px) {
+    .label{
+        
+        font-size: 12px;
+        
+    }
+}
+@media (max-width: 485px) and (min-width: 364px) {
+  .profile {
+    position: relative;
+    bottom: 6px;
+    font-size: 14px;
+  }
+  .views {
+    position: relative;
+    top: 9px;
+    right: 7rem;
+    cursor: pointer;
+  }
+  .buttonz {
+    font-size: 12px !important;
+  }
+}
+@media (max-width: 364px) {
+  .profile {
+    position: relative;
+    bottom: 6px;
+    font-size: 14px;
+  }
+  .views {
+    position: relative;
+    top: 9px;
+    right: 6.2rem;
+    cursor: pointer;
+  }
+  .buttonz {
+    font-size: 12px !important;
+  }
+}
+@media (max-width: 352px) {
+  .profile {
+    position: relative;
+    bottom: 6px;
+    font-size: 12px;
+  }
+  .profile-image {
+    width: 35px;
+    height: 35px;
+  }
+  .views {
+    position: relative;
+    top: 9px;
+    right: 5.5rem;
+    cursor: pointer;
+  }
+}
+@media (max-width: 340px) {
+  .profile {
+    position: relative;
+    bottom: 6px;
+    font-size: 11px;
+  }
+  .profile-image {
+    width: 35px;
+    height: 35px;
+  }
+  .views {
+    position: relative;
+    top: 9px;
+    right: 5rem;
+    cursor: pointer;
+  }
+}
+@media (max-width: 328px) {
+  .profile {
+    position: relative;
+    bottom: 6px;
+    font-size: 10px;
+  }
+  .profile-image {
+    width: 35px;
+    height: 35px;
+  }
+  .views {
+    position: relative;
+    top: 9px;
+    right: 4.7rem;
+    cursor: pointer;
+  }
+}
+
+@media (max-width: 315px) {
+  .profile {
+    position: relative;
+    bottom: 6px;
+    font-size: 12px;
+  }
+  .profile-image {
+    width: 30px;
+    height: 30px;
+  }
+  .views {
+    position: relative;
+    font-size: 12px;
+    top: 9px;
+    right: 5rem;
+    cursor: pointer;
+  }
+}

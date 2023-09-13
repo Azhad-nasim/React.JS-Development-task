@@ -1,0 +1,53 @@
+
+.d-flex.flex-wrap h5 {
+  margin-right: 10px; 
+}
+
+
+.d-flex .mr-2,
+.d-flex .btn {
+  margin-right: 10px; 
+}
+label h5 {
+  color: #000 !important;
+  font-family: IBM Plex Sans;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  
+}
+h5:hover{
+    cursor: pointer;
+}
+Button {
+  border-radius: 4px !important;
+  background: #edeef0 !important;
+  border: none !important;
+  color: black !important;
+}
+Button:nth-child(2) {
+  border-radius: 4px !important;
+  background: #2f6ce5 !important;
+  border: none !important;
+  color: whitesmoke !important;
+}
+.selected {
+    position: relative; 
+    padding-bottom: 5px;
+    text-decoration: none; 
+    
+  }
+  
+  .selected::after {
+    content: ''; 
+    position: absolute;
+    left: 0;
+    top: 40px;
+    border-radius: 5px;
+    width: 100%;
+    height: 4px;
+    background-color: black;
+  }
+  
+  
