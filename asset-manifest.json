@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/React.JS-Development-task/static/css/main.01ff34c0.css",
+    "main.js": "/React.JS-Development-task/static/js/main.e0c2092a.js",
+    "static/media/second.png": "/React.JS-Development-task/static/media/second.772406dccc2265b04291.png",
+    "static/media/third.png": "/React.JS-Development-task/static/media/third.214ee2bf6ccedb175214.png",
+    "static/media/first.png": "/React.JS-Development-task/static/media/first.35c59c68227275e01c4d.png",
+    "static/media/Header-bg.png": "/React.JS-Development-task/static/media/Header-bg.cc702a9d66fa87da8e2c.png",
+    "static/media/p-3.png": "/React.JS-Development-task/static/media/p-3.6f20678fc0016d28606f.png",
+    "static/media/p-1.png": "/React.JS-Development-task/static/media/p-1.997026ff9909af4fcd29.png",
+    "static/media/Logo.png": "/React.JS-Development-task/static/media/Logo.07a26ff8aa418d6bb442.png",
+    "static/media/p-2.png": "/React.JS-Development-task/static/media/p-2.bc72b2935b7b4c5b760d.png",
+    "static/media/p-4.png": "/React.JS-Development-task/static/media/p-4.70013893488ab5646bc8.png",
+    "static/media/g-1.png": "/React.JS-Development-task/static/media/g-1.fc0c30f9776e2d036e5f.png",
+    "static/media/g-4.png": "/React.JS-Development-task/static/media/g-4.05547b10bfa52f8bad7c.png",
+    "static/media/g-2.png": "/React.JS-Development-task/static/media/g-2.c527d89e0308f53dc6e0.png",
+    "index.html": "/React.JS-Development-task/index.html",
+    "main.01ff34c0.css.map": "/React.JS-Development-task/static/css/main.01ff34c0.css.map",
+    "main.e0c2092a.js.map": "/React.JS-Development-task/static/js/main.e0c2092a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.01ff34c0.css",
+    "static/js/main.e0c2092a.js"
+  ]
+}
